@@ -1,6 +1,6 @@
 # 💻 Edelvan Chagas  
 
-**`Physicist | Software Engineer | Hardware Hacker | Maker`**  
+**`Bachelor's Degree in Physics | Software Engineer | Hardware Hacker | Maker`**  
 
 Bem-vindo ao meu espaço no GitHub! Sou um entusiasta da tecnologia, apaixonado por explorar a conexão entre software e hardware para criar soluções inovadoras.  
 
@@ -20,23 +20,25 @@ Bem-vindo ao meu espaço no GitHub! Sou um entusiasta da tecnologia, apaixonado 
 ### **Plataformas e Ferramentas**  
 | Ferramenta                  | Experiência       |  
 |-----------------------------|-------------------|  
-| **Arduino**                 | ![85%](https://progress-bar.dev/85) |  
-| **Raspberry Pi**            | ![80%](https://progress-bar.dev/80) |  
-| **ESP32**                   | ![90%](https://progress-bar.dev/90) |  
-| **Flipper Zero**            | ![85%](https://progress-bar.dev/85) |  
-| **Cardputer**               | ![80%](https://progress-bar.dev/80) |  
-| **Proxmark 3**              | ![75%](https://progress-bar.dev/75) |  
-| **Bus Pirate**              | ![70%](https://progress-bar.dev/70) |  
-| **JTAGulator**              | ![70%](https://progress-bar.dev/70) |  
+| **Arduino**                 | ![85%](https://img.shields.io/badge/-85%25-%2384B1A1?style=flat&logo=arduino&logoColor=white) |  
+| **Raspberry Pi**            | ![80%](https://img.shields.io/badge/-80%25-%23A9A9A9?style=flat&logo=raspberry-pi&logoColor=white) |  
+| **ESP32**                   | ![90%](https://img.shields.io/badge/-90%25-%2300B0B9?style=flat&logo=espressif&logoColor=white) |  
+| **Flipper Zero**            | ![85%](https://img.shields.io/badge/-85%25-%23000000?style=flat&logo=flipperzero&logoColor=white) |  
+| **Cardputer**               | ![80%](https://img.shields.io/badge/-80%25-%23000000?style=flat&logo=python&logoColor=white) |  
+| **Proxmark 3**              | ![75%](https://img.shields.io/badge/-75%25-%23000000?style=flat&logo=python&logoColor=white) |  
+| **Bus Pirate**              | ![70%](https://img.shields.io/badge/-70%25-%23000000?style=flat&logo=python&logoColor=white) |  
+| **JTAGulator**              | ![70%](https://img.shields.io/badge/-70%25-%23000000?style=flat&logo=python&logoColor=white) |  
 
 ---
 
 ### **Protocolos IoT**  
-- **LoRa**: ![85%](https://progress-bar.dev/85)  
-- **I2C**: ![80%](https://progress-bar.dev/80)  
-- **SPI**: ![75%](https://progress-bar.dev/75)  
-- **UART**: ![80%](https://progress-bar.dev/80)  
-- **JTAG**: ![70%](https://progress-bar.dev/70)  
+| Protocolo      | Experiência       |  
+|-----------------|-------------------|  
+| **LoRa**        | ![85%](https://img.shields.io/badge/-85%25-%2393C4A0?style=flat&logo=LoRa&logoColor=white) |  
+| **I2C**         | ![80%](https://img.shields.io/badge/-80%25-%23E4C2A4?style=flat&logo=I2C&logoColor=white) |  
+| **SPI**         | ![75%](https://img.shields.io/badge/-75%25-%23F1D1A6?style=flat&logo=SPI&logoColor=white) |  
+| **UART**        | ![80%](https://img.shields.io/badge/-80%25-%23F1D1A6?style=flat&logo=UART&logoColor=white) |  
+| **JTAG**        | ![70%](https://img.shields.io/badge/-70%25-%23000000?style=flat&logo=JTAG&logoColor=white) |  
 
 ---
 
@@ -45,9 +47,9 @@ Bem-vindo ao meu espaço no GitHub! Sou um entusiasta da tecnologia, apaixonado 
 ```mermaid
 pie
     title Foco de Interesse
-    "Hardware Hacking": 35
+    "Hardware Hacking": 30
     "IoT Protocols": 25
     "Embedded Electronics": 20
     "MicroPython Development": 10
     "Programming with Scratch": 5
-    "Automation Systems": 5
+    "Automation Systems": 10
